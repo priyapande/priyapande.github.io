@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Blog Posts"
+    url: /blogs
+  - title: "Projects"
+    url: https://github.com/priyapande?tab=repositories
+  - title: "About"
+    url: /about
+  
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
