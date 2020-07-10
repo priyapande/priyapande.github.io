@@ -1,5 +1,6 @@
 ---
 permalink: "/about"
+author_profile: false
 ---
 
 ![Me](../assets/images/profile.jpg)
